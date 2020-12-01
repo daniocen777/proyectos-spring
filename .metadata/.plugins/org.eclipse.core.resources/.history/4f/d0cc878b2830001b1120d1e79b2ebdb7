@@ -1,0 +1,5 @@
+package com.danicode.microservicios.app.cursos.models.entity;
+
+public class Curso {
+
+}

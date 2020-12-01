@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spring-boot-backend-apirest/upload&apos; to &apos;uploads&apos;" description="Rename resource &apos;upload&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="upload" name="uploads" stamp="1581343291896" updateReferences="true"/>
+</session>

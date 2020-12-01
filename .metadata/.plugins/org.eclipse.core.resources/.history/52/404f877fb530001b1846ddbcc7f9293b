@@ -1,0 +1,5 @@
+package com.danicode.microservicios.app.cursos.controllers;
+
+public class CursoController {
+
+}

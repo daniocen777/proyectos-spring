@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;repo&apos; in &apos;com.danicode.JpaDemoApplication&apos; to &apos;repoCategorias&apos;&#x0D;&#x0A;- Original project: &apos;jpa-demo&apos;&#x0D;&#x0A;- Original element: &apos;com.danicode.JpaDemoApplication.repo&apos;&#x0D;&#x0A;- Renamed element: &apos;com.danicode.JpaDemoApplication.repoCategorias&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;repo&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src\/main\/java&lt;com.danicode{JpaDemoApplication.java[JpaDemoApplication^repo" name="repoCategorias" references="true" setter="false" stamp="1570628943464" textual="false" version="1.0"/>
+</session>

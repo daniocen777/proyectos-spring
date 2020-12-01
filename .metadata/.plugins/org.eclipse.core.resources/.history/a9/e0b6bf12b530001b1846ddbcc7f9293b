@@ -1,0 +1,11 @@
+package com.danicode.microservicios.app.cursos.services;
+
+import java.util.Optional;
+
+import com.danicode.microservicios.app.cursos.models.entity.Curso;
+import com.danicode.microservicios.app.cursos.models.repository.CursoRepository;
+import com.danicode.microservicios.commons.services.CommonServiceImpl;
+
+public class CursoServiceImpl extends CommonServiceImpl<Curso, CursoRepository> implements CursoService {
+
+}

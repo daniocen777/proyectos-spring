@@ -1,0 +1,12 @@
+package com.danicode.microservicios.app.usuarios.services;
+
+import org.springframework.stereotype.Service;
+
+import com.danicode.microservicios.app.usuarios.models.repository.AlumnoRepository;
+import com.danicode.microservicios.commons.alumnos.models.entity.Alumno;
+import com.danicode.microservicios.commons.services.CommonServiceImpl;
+
+@Service
+public class AlumnoServiceImpl extends CommonServiceImpl<Alumno, AlumnoRepository> implements AlumnoService {
+
+}
